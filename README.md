@@ -2,6 +2,8 @@
 
 Proyecto de muestra del curso de Next.js de Platzi. Muestra los canales recomendados de la API de audioboom. Lista de series, audios y reproductor.
 
+[Aplicación funcionando ](https://podcast.pquinteros.now.sh/)
+
 ![Podcasts logo](.static-readme/Podcasts.png)
 
 ## ¿Cómo funciona?
