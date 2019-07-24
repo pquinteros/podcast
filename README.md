@@ -6,7 +6,7 @@ Proyecto de muestra del curso de Next.js de Platzi. Muestra los canales recomend
 
 
 <p align="center">
-  <img src=".static-readme/Podcasts.png" width="95%" title="Podcast">
+  <img src=".static-readme/Podcasts.png" width="94%" title="Podcast">
 </p>
 
 ## ¿Cómo funciona?
