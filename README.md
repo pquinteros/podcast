@@ -9,7 +9,7 @@ Proyecto de muestra del curso de Next.js de Platzi. Muestra los canales recomend
   <img src=".static-readme/Podcasts.png" width="94%" title="Podcast">
 </p>
 
-## ¿Cómo funciona?
+## Instalación
 Puedes ejecutar estos comandos para usarlo.
 
 * `npm install` para instalar las dependencias.
